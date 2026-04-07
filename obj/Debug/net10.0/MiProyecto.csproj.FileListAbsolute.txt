@@ -1,0 +1,28 @@
+C:\Users\TZERK\c#semana1\MiProyecto\bin\Debug\net10.0\MiProyecto.exe
+C:\Users\TZERK\c#semana1\MiProyecto\bin\Debug\net10.0\MiProyecto.deps.json
+C:\Users\TZERK\c#semana1\MiProyecto\bin\Debug\net10.0\MiProyecto.runtimeconfig.json
+C:\Users\TZERK\c#semana1\MiProyecto\bin\Debug\net10.0\MiProyecto.dll
+C:\Users\TZERK\c#semana1\MiProyecto\bin\Debug\net10.0\MiProyecto.pdb
+C:\Users\TZERK\c#semana1\MiProyecto\obj\Debug\net10.0\MiProyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TZERK\c#semana1\MiProyecto\obj\Debug\net10.0\MiProyecto.AssemblyInfoInputs.cache
+C:\Users\TZERK\c#semana1\MiProyecto\obj\Debug\net10.0\MiProyecto.AssemblyInfo.cs
+C:\Users\TZERK\c#semana1\MiProyecto\obj\Debug\net10.0\MiProyecto.csproj.CoreCompileInputs.cache
+C:\Users\TZERK\c#semana1\MiProyecto\obj\Debug\net10.0\MiProyecto.dll
+C:\Users\TZERK\c#semana1\MiProyecto\obj\Debug\net10.0\refint\MiProyecto.dll
+C:\Users\TZERK\c#semana1\MiProyecto\obj\Debug\net10.0\MiProyecto.pdb
+C:\Users\TZERK\c#semana1\MiProyecto\obj\Debug\net10.0\MiProyecto.genruntimeconfig.cache
+C:\Users\TZERK\c#semana1\MiProyecto\obj\Debug\net10.0\ref\MiProyecto.dll
+C:\Users\TZERK\c#semana1\Sistema de Evaluación de Lógica y Estructuras de Datos\obj\Debug\net10.0\MiProyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TZERK\c#semana1\Sistema de Evaluación de Lógica y Estructuras de Datos\obj\Debug\net10.0\MiProyecto.AssemblyInfoInputs.cache
+C:\Users\TZERK\c#semana1\Sistema de Evaluación de Lógica y Estructuras de Datos\obj\Debug\net10.0\MiProyecto.AssemblyInfo.cs
+C:\Users\TZERK\c#semana1\Sistema de Evaluación de Lógica y Estructuras de Datos\obj\Debug\net10.0\MiProyecto.csproj.CoreCompileInputs.cache
+C:\Users\TZERK\c#semana1\Sistema de Evaluación de Lógica y Estructuras de Datos\obj\Debug\net10.0\MiProyecto.dll
+C:\Users\TZERK\c#semana1\Sistema de Evaluación de Lógica y Estructuras de Datos\obj\Debug\net10.0\refint\MiProyecto.dll
+C:\Users\TZERK\c#semana1\Sistema de Evaluación de Lógica y Estructuras de Datos\obj\Debug\net10.0\MiProyecto.pdb
+C:\Users\TZERK\c#semana1\Sistema de Evaluación de Lógica y Estructuras de Datos\bin\Debug\net10.0\MiProyecto.exe
+C:\Users\TZERK\c#semana1\Sistema de Evaluación de Lógica y Estructuras de Datos\bin\Debug\net10.0\MiProyecto.deps.json
+C:\Users\TZERK\c#semana1\Sistema de Evaluación de Lógica y Estructuras de Datos\bin\Debug\net10.0\MiProyecto.runtimeconfig.json
+C:\Users\TZERK\c#semana1\Sistema de Evaluación de Lógica y Estructuras de Datos\bin\Debug\net10.0\MiProyecto.dll
+C:\Users\TZERK\c#semana1\Sistema de Evaluación de Lógica y Estructuras de Datos\bin\Debug\net10.0\MiProyecto.pdb
+C:\Users\TZERK\c#semana1\Sistema de Evaluación de Lógica y Estructuras de Datos\obj\Debug\net10.0\MiProyecto.genruntimeconfig.cache
+C:\Users\TZERK\c#semana1\Sistema de Evaluación de Lógica y Estructuras de Datos\obj\Debug\net10.0\ref\MiProyecto.dll
